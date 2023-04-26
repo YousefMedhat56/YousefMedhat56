@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yousef Medhat</h1>
 <h3 align="center">A first-year computer science student as well as an aspiring web developer🧑‍💻 I am very passionate about learning anything web related and applying this knowledge to real-world projects🌍</h3>
 
-- 🌱 I’m currently **learning Nestjs**
+- 🌱 I’m currently working on [Soccer-live](https://github.com/Yousef-Medhat56/Soccer-live) website.
 
 - 📫 How to reach me: **yousef.medhat564@gmail.com**
-- 🔗 My website: [yousef-medhat.com](yousef-medhat.com)
+- 🔗 My website: [yousef-medhat.com](https://yousef-medhat.com/)
 
 - ⚡ Fun fact **I admire watching movies🎬🍿**
 
