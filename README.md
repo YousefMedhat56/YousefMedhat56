@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Medhat</h1>
-<h3 align="center">A first-year computer science student as well as an aspiring web developer🧑‍💻 I am very passionate about learning anything web related and applying this knowledge to real-world projects🌍</h3>
+<h3 align="center">A second-year computer science student as well as an aspiring web developer🧑‍💻 I am very passionate about learning anything web related and applying this knowledge to real-world projects🌍</h3>
 
 - 🌱 I’m currently working on [Soccer-live](https://github.com/Yousef-Medhat56/Soccer-live) website.
 
