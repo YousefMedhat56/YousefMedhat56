@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Medhat</h1>
-<h3 align="center">A second-year computer science student as well as an aspiring web developer🧑‍💻 I am very passionate about learning anything web related and applying this knowledge to real-world projects🌍</h3>
+<h3 align="center">An aspiring full stack web developer. I am very passionate about learning anything web related and applying this knowledge to real-world projects.</h3>
 
 - 📫 How to reach me: **yousef.medhat564@gmail.com**
-- 🔗 My website: [yousefmedhat.vercel.app](https://yousefmedhat.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
