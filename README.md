@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://twitter.com/yousefmedhat56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_medhat56" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yousef-medhat56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-medhat56" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yousef_medhat564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yousef_medhat564" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
